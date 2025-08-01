@@ -67,7 +67,7 @@ CREATE DATABASE spring_db;
 
 Para executar a aplicação com as variáveis de ambiente abra seu terminal na raiz do projeto e execute:
 ```bash
-docker-compose up --build
+docker-compose up -d --build
 ```
 obs: esse comando vai criar o container boilerplate_java_spring com os 3 serviços postgres,pgadmin e spring-app
 
