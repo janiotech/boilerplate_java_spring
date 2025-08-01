@@ -58,7 +58,7 @@ PGADMIN_PORT=5050
 
 ### 4. Configurar o banco de dados
 
-Crie um banco com o nome desejado no PostgreSQL:
+Crie um banco de dados no PostgreSQL com o mesmo nome passado nas variáveis de ambiente POSTGRES_DB:
 ```sql
 CREATE DATABASE spring_db;
 ```
