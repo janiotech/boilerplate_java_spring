@@ -1,4 +1,4 @@
-# 🩺 BOILERPLATE-JAVA-SPRING
+# 📁 BOILERPLATE-JAVA-SPRING
 
 Criei esse boilerplate para facilitar o início de projetos em Java com Spring Boot, utilizando Clean Architecture e boas práticas de desenvolvimento.
 
